@@ -1,0 +1,20 @@
+[default]
+  url = "http://localhost:8086"
+  token = "T2p-AduyriVt-58VXAwRufQL3uhkqCkCe1Qiy5ZcaRqc_9w23YA_zb3w12NRi9z_ngUv3W_4Feo-WtSEw9vEpQ=="
+  org = "koltsi"
+  active = true
+# 
+# [eu-central]
+#   url = "https://eu-central-1-1.aws.cloud2.influxdata.com"
+#   token = "XXX"
+#   org = ""
+# 
+# [us-central]
+#   url = "https://us-central1-1.gcp.cloud2.influxdata.com"
+#   token = "XXX"
+#   org = ""
+# 
+# [us-west]
+#   url = "https://us-west-2-1.aws.cloud2.influxdata.com"
+#   token = "XXX"
+#   org = ""
